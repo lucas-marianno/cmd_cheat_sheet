@@ -26,6 +26,7 @@ A cheat sheet with some of the most commonly used commands and options in Comman
   - **`/V`**: Verify that new files are written correctly.
 - **`move [source] [destination]`**: Move files from one location to another.
   - **`/Y`**: Suppress confirmation prompt when overwriting files.
+- **`ren [oldname] [newname]`**: Rename a file or folder.
   
 ### System Information
 
