@@ -10,6 +10,8 @@ A cheat sheet with some of the most commonly used commands and options in Comman
 - **`cd ..`**: Go up one directory level.
 - **`dir`**: List files and directories in the current directory.
 - **`cls`**: Clear the screen.
+- **`tree`**: shows the current folder tree (folders only).
+- **`tree /f`**: shows the current folder tree with all files from all child folders.
 
 ### File and Directory Management
 
