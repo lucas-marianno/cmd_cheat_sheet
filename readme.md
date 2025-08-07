@@ -4,7 +4,9 @@ A cheat sheet with some of the most commonly used commands and options in Comman
 
 ## Command Prompt (cmd) Cheat Sheet
 
-### Basic Navigation
+- **`help`**: Shows the list of available commands.
+
+### Basic navigation
 
 - **`cd [directory]`**: Change the current directory.
 - **`cd ..`**: Go up one directory level.
@@ -77,4 +79,8 @@ A cheat sheet with some of the most commonly used commands and options in Comman
   - **`/t [seconds]`**: Set a delay for shutdown/restart.
 - **`assoc`**: Display or modify file extension associations.
 - **`fc [file1] [file2]`**: Compare two files and display the differences.
+
+### Keyboard Shortcuts
   
+- **`ctrl`+`shift`+`arrow_up`**: scroll up
+- **`ctrl`+`shift`+`arrow_down`**: scroll down
