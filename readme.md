@@ -9,11 +9,16 @@ A cheat sheet with some of the most commonly used commands and options in Comman
 ### Basic navigation
 
 - **`cd [directory]`**: Change the current directory.
+- **`cd`+`TAB`**: To iterate through the available directories in the current folder. Press `ENTER` to run.
 - **`cd ..`**: Go up one directory level.
+- **`start [filename]`**: To open/run a file.
+- **`start [directory]`**: To open File Explorer in the directory location.
+- **`start .`**: To open File Explorer in the current location.
+- **`start`+`TAB`**: To iterate through the available files in the current folder. Press `ENTER` to run.
 - **`dir`**: List files and directories in the current directory.
-- **`cls`**: Clear the screen.
 - **`tree`**: shows the current folder tree (folders only).
 - **`tree /f`**: shows the current folder tree with all files from all child folders.
+- **`cls`**: Clears the screen.
 
 ### File and Directory Management
 
